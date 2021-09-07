@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# IDDV Program Coordination
 
-You can use the [editor on GitHub](https://github.com/pmiguelcruz/northeastern/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Pedro Cruz' Office Hours for Fall 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### In person
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Every Tuesday 4:00 to 6:00 PM @ 193 RY
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+*First come, first served*
 
-### Jekyll Themes
+*Ryder Hall side entrance > Center for Design*
+***If you cannot find my office, go to the CAMD Dean's Office and ask for directions at the front desk.***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmiguelcruz/northeastern/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Remote
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+Every Thursday 5:00 to 6:00 PM @ Zoom
+```
+*First come, first served*  
+*Virtual waiting room* `enabled`  
+Join URL: https://northeastern.zoom.us/j/95639059261
+
+### [Subscribe](https://northeastern.instructure.com/feeds/calendars/user_FNPBg0PwkOUoevFbk8hyxrtvUzi2TdLeJAcFB8Sj.ics) to my calendar feed with all these events

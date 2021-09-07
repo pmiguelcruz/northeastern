@@ -8,7 +8,6 @@
 
 ```
 Every Tuesday 4:00 to 6:00 PM @ 193 RY
-
 ```
 *First come, first served*
 

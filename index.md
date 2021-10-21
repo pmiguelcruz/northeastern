@@ -22,7 +22,7 @@ Every Thursday 5:00 to 6:00 PM @ Zoom
 ```
 *First come, first served*  
 *Virtual waiting room* `enabled`  
-Join URL: [https://northeastern.zoom.us/j/95639059261](https://northeastern.zoom.us/j/95639059261)
+Join URL: [https://northeastern.zoom.us/my/pmcruz](https://northeastern.zoom.us/my/pmcruz)
 
 ### [Subscribe](https://northeastern.instructure.com/feeds/calendars/user_FNPBg0PwkOUoevFbk8hyxrtvUzi2TdLeJAcFB8Sj.ics) to my calendar feed with all these events
 

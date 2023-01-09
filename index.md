@@ -1,6 +1,7 @@
-# Office hours - Fall 2022
+# Office hours - Spring 2023
 
-- Wednesday 2:30 to 4:30 PM.
+- Tuesday 2:30 to 4:30 PM
+- In person: 193 RY
 - [Book here](https://outlook.office365.com/owa/calendar/PedroCruzOfficeHours1@northeastern.onmicrosoft.com/bookings/)
-- Join: [https://northeastern.zoom.us/my/pmcruz](https://northeastern.zoom.us/my/pmcruz)
+
 

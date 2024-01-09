@@ -1,7 +1,7 @@
-# Office hours - Spring 2023
+# Office hours - Spring 2024
 
-- Wednesday 2:30 to 4:30 PM
-- In person: Center for Design 193 RY
-- [Book here](https://outlook.office365.com/owa/calendar/PedroCruzOfficeHours1@northeastern.onmicrosoft.com/bookings/)
+- Thursday 9:45 to 11:30 AM
+- In person: Ryder Hall 1st floor -> Center for Design, 193 RY
+- [Book here](https://fantastical.app/pcruz-6OKr/office-hours)
 
 
